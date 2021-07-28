@@ -17,3 +17,4 @@ You can fill in how many lines / coins you want to have displayed, the default i
 
 # Screenshots
 ![1 day 25 coins](https://github.com/StephanAkkerman/Binance_Line_Chart/blob/main/screenshot/1day.png)
+![1 month 25 coins](https://github.com/StephanAkkerman/Binance_Line_Chart/blob/main/screenshot/1month.png)
