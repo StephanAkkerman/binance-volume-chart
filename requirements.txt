@@ -1,0 +1,7 @@
+finplot==1.7
+pandas==1.2.4
+python_binance==0.7.5
+pyqtgraph==0.12.1
+pycoingecko==2.2.0
+binance==0.3
+PyQt5==5.15.4

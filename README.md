@@ -2,9 +2,6 @@
 This project uses finplot to graph the lines of the coins and the data is gathered using the Binance API.
 
 # Features
-Finding the top volume tickers on Binance is hard to do, since there is no API function for that. 
-So the first time loading will take longer, however the data used is saved.
-After 24h the data will be fetched again, to get the most actual top volume available.
 The user can choose to turn 'live mode' on or off, the live data is fetched using the Binance API websocket. 
 
 Currently there are 4 time frames avaible, these are:
